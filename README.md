@@ -1,4 +1,4 @@
 countries_api
 =============
 
-A Symfony project created on March 16, 2018, 9:05 am.
+A php project to create a restful api to work in conjunction with the angular country-app I'm building.
